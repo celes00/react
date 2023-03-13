@@ -19,3 +19,14 @@
     background-position: center;
     background-image: url(../img/batmanOFF.jpg)
 }
+
+.batman_activo {
+    background-image: url(../img/batmanON.gif)
+}
+
+.boton {
+    position: relative;
+    left: 200px;
+    width:  400px;
+    height: 500px;
+}
